@@ -1,0 +1,31 @@
+body{
+	background-color: white;
+}
+
+#container{
+	font-size: 50px;
+	color:white;
+	text-shadow: 2px 2px black;
+	position: absolute;
+	margin-left: 960px;
+	margin-top: 480px;
+
+}
+
+
+#logo{
+    margin: 0 auto;
+    display: table;
+}
+
+.questions{
+    float: left;
+}
+
+.answers{
+    float: right;
+}
+
+input{
+    margin-top: 15px;
+}
